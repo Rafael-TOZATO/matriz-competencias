@@ -1,5 +1,7 @@
 # Matriz de Competências e Desenvolvimento Profissional – 2026
 
+![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
+
 Repositório técnico dedicado ao mapeamento estratégico de competências, direcionamento de carreira e consolidação das diretrizes de atuação em Garantia da Qualidade, Governança 4.0 e Transição para Inteligência Artificial.
 
 ## Visão Geral
